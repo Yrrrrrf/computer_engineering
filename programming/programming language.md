@@ -34,6 +34,6 @@ A script language is a programming language that is interpreted rather than comp
 * **Embedded** - The script is embedded in a program. The program reads the script and executes it. The script is usually written in a compiled language such as C or C++.
 * **[[bash|Bash]]** - A shell script language that is used in the Linux operating system.
 
-* **[[Python]]** - A general purpose programming language that is used for web development, data science, and machine learning.
+* **[[python]]** - A general purpose programming language that is used for web development, data science, and machine learning.
 
 [[javascript|JavaScript]] is a scripting language that is used to add interactivity to web pages. It is used to add dynamic effects to web pages. It is also used to validate forms and to create cookies.

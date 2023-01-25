@@ -2,7 +2,7 @@
 
 Logic is the study of the principles of reasoning. It is a formal discipline that is used to evaluate arguments and to draw conclusions from premises. Logic is a fundamental part of mathematics, and is also used in computer science, linguistics, philosophy, and many other fields.
 
-## Logic Gates
+## [[logic gates|Logic Gates]]
 
 A logic gate is an electronic circuit that implements a Boolean function. It has one or more inputs and one or more outputs. The output of a logic gate is determined by the input values. The output of a logic gate is either 1 or 0, which is called a bit. A logic gate can be used to build more complex circuits.
 

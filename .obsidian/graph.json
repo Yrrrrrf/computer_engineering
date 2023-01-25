@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 3375615
       }
+    },
+    {
+      "query": "path:schedule.md",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
     }
   ],
   "collapse-display": true,
@@ -39,6 +46,6 @@
   "repelStrength": 8.02083333333333,
   "linkStrength": 1,
   "linkDistance": 201,
-  "scale": 0.9928988747149537,
+  "scale": 0.8453301630972304,
   "close": false
 }

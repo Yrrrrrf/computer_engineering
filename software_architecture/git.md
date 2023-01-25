@@ -19,17 +19,10 @@ git congif user.mail "usersMail"
 ```
 
 
-## [[gitbash|GitBash]]
+## [[bash|GitBash]]
 
-
-## [[git workflow|Git Workflow]]
 
 ### Commands
-
-- **pwd** - Print Working Directory
-- **ls** - List
-- **cd** - Change Directory
-
 - git **init**
 	 Create an empty Git repository or reinitialize an existing one in the current folder.
 - git **status**
@@ -119,7 +112,7 @@ We **always merge** the **current HEAD branch**.
 some text
 
 
-### Vim Shortcuts
+### [[vim|Vim]] Shortcuts
 ![[vim shortcuts.png]]
 
 ----

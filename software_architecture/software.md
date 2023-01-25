@@ -1,7 +1,7 @@
 # Software
 
 Is a set of instructions that tell a computer how to perform a task. Software can be divided into two main categories: system software and application software.
-Is the software that runs on a computer and **manages the [[hardware]]** and other $software$. It is also called the [[operating system]] (OS).
+Is the software that runs on a computer and **manages the [[hardware]]** and other [[software resources]]. It is also called the [[operating system]] (OS).
 
 # Software Architecture
 

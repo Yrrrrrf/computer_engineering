@@ -1,7 +1,7 @@
 # Abstract Data Types
  
 Represents a particular set of behaviors, not their implementation.
-So it's possible to built [[abstract data types|ADTs]] using [[programming/data types|primitive data types.]]
+So it's possible to built [[abstract data types|ADTs]] using [[turing machine|primitive data types.]]
 ![[adts.jpg]]
 
 ### List

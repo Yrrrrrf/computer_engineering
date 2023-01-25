@@ -1,4 +1,4 @@
-# [[structured query language#DDL Data Definition Language|Data Definition Language]]
+# [[sql#DDL Data Definition Language|Data Definition Language]]
 Deals with database schemas and descriptions, of how the data should reside in the database.
 
 
@@ -13,7 +13,7 @@ USE DATABASE database_name; --Stablish in which scheam/database make the changes
 ```
 
 **TABLE & PRIMARY KEY**
-To create a table, we put as a parameter (_column_name_ _[[data_bases/data types|dataType]]_ _[[data bases#Constraints Restrictions|constraint]]_).
+To create a table, we put as a parameter (_column_name_ _[[data types|dataType]]_ _[[data bases#Constraints Restrictions|constraint]]_).
 To stablish what column is the **primary key** we use PRIMARY KEY(_column_name_) as a parameter in the table declaration.
 ``` SQL
 -- A table can have as many columns as we want

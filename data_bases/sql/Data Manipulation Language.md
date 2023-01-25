@@ -1,4 +1,4 @@
-# [[structured query language#DML Data Manipulation Language|Data Manipulation Language]] 
+# [[sql#DML Data Manipulation Language|Data Manipulation Language]] 
 Deals with **data manipulation** and **includes most** common **SQL statements**, it is used to store, modify, retrieve, delete and update data in a database.
 
 

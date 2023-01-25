@@ -1,6 +1,7 @@
 # Data Science
 
-Is the process in which we use data to interpolate & get more usefull information.
+Is the process in which we use data to interpolate & get more usefull information. It's a process that uses [[statistics]] and [[operations research]] to get more information from data.
+
 
 ### Big Data
 Concept use when we've big volumes of data, very varied and fast, so much that it's difficult to process them with traditional methods.
@@ -36,7 +37,7 @@ Concept use when we've big volumes of data, very varied and fast, so much that i
 -   Data in itself is of no use or importance but it needs to be converted into something valuable to extract Information. Hence, you can state that Value! is the most important V of all the 5V’s.
 
 
-### Artifitial Inteligence
+### [[artificial intelligence|Artificial Intelligence]]
 Algorithms that emulate the natural human intelligence.
 Regocnize patterns in big quantities of data.
 

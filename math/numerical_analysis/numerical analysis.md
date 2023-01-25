@@ -33,7 +33,7 @@ Is the study of [[logic]] [[algorithms]] that use numerical approximation (as op
 - LDL Factorization `(6.5)`
 
 
-#### [Nonlinear Systems](/math/numerical_analysis/non_linear_systems.ipynb)
+### [Nonlinear Systems](/math/numerical_analysis/non_linear_systems.ipynb)
 - Newton's Method `(10.1)`
 - Broyden's Method `(10.2)`
 - Steepes Descent Method `(10.3)`

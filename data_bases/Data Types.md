@@ -1,4 +1,4 @@
-# [[data bases]] [[programming/data types]]Types
+# [[data bases|Data Bases]] [[turing machine#Data Types|Data Types]]
 They are a little bit different from usual Data Types, they're completely designed to be efficient in a Data Base. To use less memory and accelerate Querys.
 
 ##### Text:

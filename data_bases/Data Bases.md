@@ -7,8 +7,8 @@ The standard of representation for the Entity-Relation diagram is the [[chen-not
 **R**elational **D**ata**b**ase **M**anagement **S**ystem are tools that help us to manage a Data Base.
 
 
-### [[relational data bases]]
-They use [[structured query language|SQL]] to comunicate to the data base.
+### [[relational data bases|Relational Data Bases]]
+They use [[sql|SQL]] to comunicate to the data base.
 
 Created by **Edgar Cood**, who of course left us a few rules to follow to get a consistent standard, known as the [[12 Codd's Rules]]. Besides he created the **Relational Algebra**, that's about how we can manage, merge data using different characteristics.
 
@@ -25,7 +25,7 @@ They use a [[nosql|NOSQL]] to make `complete this...`
 **Cassandra**
 
 
-### [[data_bases/data types|Data Types]]:
+### [[data types|Data Types]]:
 They are a little bit different from usual Data Types, they're completely designed to be efficient in a Data Base. To use less memory and accelerate Querys.
 
 ##### Text:
