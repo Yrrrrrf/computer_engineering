@@ -1,0 +1,3 @@
+# Modular Programming
+
+Modular programming is categorized as a subordinate form of the [[programming paradigms#Imperative Programming|imperative programming paradigm]]. It is essentially very similar to the [[procedural programming|procedural]] method and applies this programming style to the requirements and demands of larger and more comprehensive software projects. It involves selectively breaking down the source code into logical, independent sub-blocks to ensure greater **clarity** and to simplify the **debugging process**. The sub-blocks, known as **modules**, can be tested individually before they are subsequently linked together to create a collective application.
