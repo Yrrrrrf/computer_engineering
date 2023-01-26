@@ -1,9 +1,6 @@
 # [Compiler](https://en.wikipedia.org/wiki/Compiler)
 
-Is a [[software]] that transforms **source code** written in a [[programming language]] (**source language**) into another computer language (**target language**), with the latter often having a binary form known as object code.
-
-The most common reason for converting source code is to create an executable program.
-
+Is a [[software]] that transforms **source code** written in a [[programming language]] (**source language**) into another computer language (**target language**), with the latter often having a binary form known as object code. The most common reason for converting source code is to create an executable program.
 
 ## phases
 A compiler is usually divided into several phases, each of which transforms the program in some way. The phases are usually executed in the order shown below, but some phases may be executed in parallel, and some may be omitted.

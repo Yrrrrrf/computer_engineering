@@ -1,4 +1,5 @@
 # Administration of Informatic Resources
 
+# 6th Semester stuff
 
-Is a field of study that focuses on the administration of [[computer]]s and [[network]]s.
+1 

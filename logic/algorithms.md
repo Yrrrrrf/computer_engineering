@@ -2,8 +2,8 @@
 
 Is a finite list of instructions that describe a process that recives `inputs`, executes and return `outputs`. An algorithm can't be ambigous.
 
-### [Complexity](https://devopedia.org/algorithmic-complexity)
-
+### [Complexity](./algorithmic_complexity.ipynb)
+The complexity of an algorithm is represented using the [Big O Notation](https://www.youtube.com/watch?v=Q_1M2JaijjQ).
 | $class$ | n=10 | n=100 | n=1000 | n=10000 | n=100000 | n=1000000 |
 |----|----|----|----|----|----|----|
 | $O(1)$ | $1$ | $1$ | $1$ | $1$ | $1$ | $1$ |
@@ -14,7 +14,7 @@ Is a finite list of instructions that describe a process that recives `inputs`, 
 
 ![[complexity.png]]
 
-### [Search Algorithms](/logic/search_algorithms.ipynb)
+### [Search Algorithms](./search_algorithms.ipynb)
 - linear search
 - binary search
 - jump search
@@ -23,7 +23,7 @@ Is a finite list of instructions that describe a process that recives `inputs`, 
 - fibonacci search
 - ternary search
 
-### [Sort Algorithms](/logic/sort_algorithms.ipynb)
+### [Sort Algorithms](sort_algorithms.ipynb)
 - bubble sort
 - insertion sort
 - quick sort
@@ -34,12 +34,18 @@ Is a finite list of instructions that describe a process that recives `inputs`, 
 
 ### [[flow diagram|Flow Diagram]]
 Are a way to represent algorithms in a visual way.
+
+pseudocode of second degree equation:
 ```mermaid
-graph TD
-A[Christmas] -->|Get money| B(Go shopping)
-B --> C{Let me think}
-C -->|One| D[Laptop]
-C -->|Two| E[iPhone]
-C -->|Three| F[fa:fa-car Car]
+graph LR
+A[ax^2+bx+c=0] --> B(b^2-4ac<0)
+B -->|True| D[No real roots]
+B -->|False| E{D=0}
+E -->|True| F[One real root]
+E -->|False| G[Two real roots]
 ```
 
+
+## References
+- [sorting algorithms](https://realpython.com/sorting-algorithms-python/)
+- [algorithmic complexity](https://devopedia.org/algorithmic-complexity)

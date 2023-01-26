@@ -24,13 +24,11 @@ Is the process of planning, organizing, and managing resources to bring about th
 | Availability, performance, relaiability, low fault tolerance, scalability | Configurability, extensibility, supportability, maintainability, portability | Accessibility, security, usability,  privacy, feasibility |
 
 ## SOLID principles of Software architecture
-
-**S**ingle Responsibility – Each services should have a single objective.
-**O**pen-Closed Principle – Software modules should be independent and expandable.
-**L**iskov Substitution Principle – Independent services should be able to communicate and substitute each other.
-**I**nterface Segregation Principle – Software should be divided into such microservices there should not be any redundancies.
-**D**ependency Inversion Principle – Higher-levels modules should not be depending on low-lower-level modules and changes in higher level will not affect to lower level.
-
+- **S**ingle Responsibility – Each services should have a single objective.
+- **O**pen-Closed Principle – Software modules should be independent and expandable.
+- **L**iskov Substitution Principle – Independent services should be able to communicate and substitute each other.
+- **I**nterface Segregation Principle – Software should be divided into such microservices there should not be any redundancies.
+- **D**ependency Inversion Principle – Higher-levels modules should not be depending on low-lower-level modules and changes in higher level will not affect to lower level.
 
 ## [[architecture pattern|Architecture Pattern]]
 

@@ -1,7 +1,7 @@
-# Abstract Data Types
- 
+# Data Structures
+
 Represents a particular set of behaviors, not their implementation.
-So it's possible to built [[abstract data types|ADTs]] using [[turing machine|primitive data types.]]
+So it's possible to built $Abstract\ Data\ Types$ using [[turing machine|primitive data types.]]
 ![[adts.jpg]]
 
 ### List
@@ -10,6 +10,7 @@ Can contains an [array] of a same datatype written in sequaential order.
 ### Stack
 - Behavior: LIFO (Last In Fist Out)
 ![[stack.webp]]
+
 ### Queue
 - Behavior: First In First Out
 The nearest value to get out is named **front** & the furthest away is named **rear**
@@ -23,7 +24,7 @@ The nearest value to get out is named **front** & the furthest away is named **r
 ### [[graph|Graph]]
 - Behavior: 
 
-### [[trees]]
+### [[trees|Trees]]
 - Behavior: 
 
 ### Linked List

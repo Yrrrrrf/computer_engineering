@@ -1,7 +1,7 @@
 # Design Patterns
 
 Is a general, reusable solution to a commonly occurring problem within a given context in [[software]] design.
-The design pattern is not a finished design that can be transformed directly into code. It is not a factor when using design patterns, that means that design patterns are [[language|language]] independent.
+The design pattern is not a finished design that can be transformed directly into code. It is not a factor when using design patterns, that means that design patterns are [[programming language]] independent.
 
 
 ## Creational Patterns

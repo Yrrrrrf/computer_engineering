@@ -58,12 +58,13 @@ Used in [[artificial intelligence]] to train the AI model that can solve a deter
 - a
 
 ### Data Engineer
-- a
+
+
+##### References
+- https://platzi.com/cursos/ingenieria-datos/
+
 
 ----
 
 ### Machine Learning Engineer
 
-
-### Tools
-[[numpy]] & [[pandas]] are one of the most used libraries in sdata science because they're fast and allow us to manipulate daata really fast and with only a few lines of code.

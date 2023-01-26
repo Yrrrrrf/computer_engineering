@@ -1,6 +1,6 @@
 # [Python](https://www.python.org/)
 
-Is a **high-level**, general-purpose [[language]] designed to emphasizes **code readability**. 
+Is a **high-level**, general-purpose [[programming language|language]] designed to emphasizes **code readability**. 
 Created by [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum "Guido van Rossum"), first released it in 1991.
 
 Is **dynamically-typed** and **garbage-collected**. It supports multiple **programming paradigms**, including [[structured programming]] (particularly [[procedural programming|procedural]], [[object oriented programming|object-oriented]] and [[functional programming]]. 

@@ -1,4 +1,4 @@
-# [SymPy](http://www.sympy.org/en/index.html)
+# [SymPy](./sympy.ipynb)
 
 Is a [[python]] library for symbolic mathematics. It provides high-performance, easy-to-use data structures and data analysis tools. It aims to become a full-featured computer algebra system (CAS) while keeping the code as simple as possible in order to be comprehensible and easily extensible.
 
@@ -19,8 +19,6 @@ import sympy
 ```
 
 ## Resources
+- [sympy org](http://sympy.org/en/index.html)
 - [SymPy Tutorial](http://docs.sympy.org/latest/tutorial/index.html)
 - [a](https://dynamics-and-control.readthedocs.io/en/latest/0_Getting_Started/Notebook%20introduction.html#SymPy)
-
-## See Also
-https://docs.sympy.org/latest/tutorials/intro-tutorial/gotchas.html

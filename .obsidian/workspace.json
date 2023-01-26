@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "281ea89e39282000",
+        "id": "90ad7da77c6a4ecf",
         "type": "tabs",
         "children": [
           {
-            "id": "bb5a55dc343178dd",
+            "id": "2749a1f1b043b87a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -143,17 +143,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb5a55dc343178dd",
+  "active": "2749a1f1b043b87a",
   "lastOpenFiles": [
-    "computer_architecture/hardware/gpu.md",
-    "computer_architecture/hardware/cpu.md",
-    "data_bases/postgreSQL.md",
-    "programming/paradigms/event-driven programming.md",
-    "computer_architecture/integrated circuit.md",
+    "software_architecture/software resources.md",
     "schedule.md",
-    "software_architecture/git.md",
+    "data_science/artificial_intelligence/artificial intelligence.md",
+    "logic/algorithms.md",
+    "data_science/data science.md",
+    "software_architecture/compilers/compilers.md",
     "software_architecture/software.md",
-    "operating_systems/operating system.md",
-    "computer_architecture/hardware/threads.md"
+    "software_architecture/testing/testing.md",
+    "computer_architecture/hardware/hardware.md",
+    "computer_architecture/computer architecture.md"
   ]
 }
