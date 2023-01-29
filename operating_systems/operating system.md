@@ -1,6 +1,12 @@
 # [Operating System](https://en.wikipedia.org/wiki/Operating_system)
 
-Is system [[software]] that manages computer [[hardware]], [[software resources]], and provides common services for computer programs. As well as the [[cyber_security|security]] of the computer system.
+Is system [[software]] that manages computer [[hardware]], [[software resources]], and provides common services for computer programs. As well as the [[cyber security|security]] of the computer system.
+
+## TODO:
+- [ ] [Custom Arch management](https://www.mastermind.ac/courses/linux-avanzado-de-la-forma-mas-simple) -> [ArchLinux](https://www.archlinux.org/) -> [ArcoLinux](https://arcolinux.com/) -> [ArcoLinuxD](https://arcolinuxd.com/)
+- [ ] [Add directory structure]
+    - https://www.youtube.com/watch?v=ucctAawSnj8&ab_channel=AverageLinuxUser
+    - https://www.youtube.com/watch?v=42iQKuQodW4&ab_channel=Fireship
 
 
 # 6th Semester stuff

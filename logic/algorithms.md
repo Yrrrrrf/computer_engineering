@@ -45,6 +45,9 @@ E -->|True| F[One real root]
 E -->|False| G[Two real roots]
 ```
 
+### The [[Discrete fourier analysis#Descrete Fourier Transform|Fourier Transform]]
+Is a mathematical tool that can be used to decompose a function of time (a signal) into the frequencies that make it up. It can also be used to reconstruct a signal from its frequency components.
+
 
 ## References
 - [sorting algorithms](https://realpython.com/sorting-algorithms-python/)

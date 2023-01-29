@@ -10,6 +10,11 @@ A logic gate is an electronic circuit that implements a Boolean function. It has
 
 Boolean algebra is a branch of algebra in which the values of the variables are the truth values `true` and `false`, usually denoted `1` and `0` respectively. Instead of elementary algebra where the values of the variables are numbers and the main operations are addition and multiplication, the main operations of Boolean algebra are the conjunction (denoted `∧`), the disjunction (denoted `∨`), and the negation (denoted `¬`).
 
-## [[discrete math]]
+## Propositional Logic
 
-Discrete math is the study of mathematical structures that are fundamentally discrete rather than continuous. It is the foundation of computer science and related fields.
+Propositional logic is a branch of logic that studies ways of joining and/or modifying propositions to form more complex propositions. A proposition is a declarative sentence that is either true or false, but not both at the same time. A proposition can be expressed in natural language, or in a formal language such as propositional logic.
+
+## Predicate Logic
+
+Predicate logic is a branch of logic that studies ways of joining and/or modifying propositions to form more complex propositions. A proposition is a declarative sentence that is either true or false, but not both at the same time. A proposition can be expressed in natural language, or in a formal language such as propositional logic.
+

@@ -1,6 +1,8 @@
-# [Scikit-learn](http://scikit-learn.org/stable/index.html)
+# [Scikit-learn](https://scikit-learn.org/stable/)
 
 Is a [[python]] library for [[machine learning]]. It provides high-performance, easy-to-use data structures and data analysis tools.
+
+Is built on top of [[numpy]] and [[scipy]].
 
 ## Installation
 

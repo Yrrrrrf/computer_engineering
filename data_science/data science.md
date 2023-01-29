@@ -1,70 +1,64 @@
-# Data Science
+# [Data Science](https://www.kaggle.com/datasets/timoboz/data-science-cheat-sheets)
 
-Is the process in which we use data to interpolate & get more usefull information. It's a process that uses [[statistics]] and [[operations research]] to get more information from data.
+Is an interdisciplinary academic field that **uses [[statistics]], [[computer science]], scientific methods, processes, [[algorithms]], systems and [[operations research]]** to $extract$ or $extrapolate$ knowledge and insights from noisy, structured and unstructured data.
+Is the process in which we use data to interpolate & get more usefull information. to get more information from data.
+The **data science** uses [[artificial intelligence]] as a tool to try to make predictions.
 
+```mermaid
+flowchart LR
+    data[(raw\ndata)] --> etl[ETL]
+    subgraph Data Engineer
+    etl
+    end
 
-### Big Data
+    etl --> clean_data[(data)]
+    subgraph Data Analyst
+    analysis
+    end
+    clean_data --> analysis
+    analysis --> insights{{insights}}
+
+    subgraph Data Scientist
+    analysis --> scientist[something new]
+    end
+    clean_data <--> scientist
+    scientist --> ml_model{{ML model}}
+
+    subgraph ML Engineer
+    model[Deploy]
+    end
+    ml_model --> model[production]
+```
+
+## [[big data|Big Data]]
 Concept use when we've big volumes of data, very varied and fast, so much that it's difficult to process them with traditional methods.
-- **Volume**
--   The name ‘Big Data’ itself is related to a size which is enormous.
--   Volume is a huge amount of data.
--   To determine the value of data, size of data plays a very crucial role. If the volume of data is very large then it is actually considered as a ‘Big Data’. This means whether a particular data can actually be considered as a Big Data or not, is dependent upon the volume of data.
--   Hence while dealing with Big Data it is necessary to consider a characteristic ‘Volume’.
--   _Example:_ In the year 2016, the estimated global mobile traffic was 6.2 Exabytes(6.2 billion GB) per month. Also, by the year 2020 we will have almost 40000 ExaBytes of data.
+- **Volume** name ‘Big Data’ itself is related to a size which is enormous. Is a huge amount of data.
+- **Velocity:** Velocity refers to the high speed of accumulation of data. In Big Data velocity data flows in from sources like machines, networks, social media, mobile phones etc.
+- **Variety** It refers to nature of data that is structured, semi-structured and unstructured data.
+-   It also refers to heterogeneous sources. **Structured data** ,**Semi- Structured data** ,**Unstructured data**
+- **Veracity** It refers to inconsistencies and uncertainty in data, that is data which is available can sometimes get messy and quality and accuracy are difficult to control.
+- **Value:** After having the 4 V’s into account there comes one more V which stands for Value!. The bulk of Data having no Value is of no good to the company, unless you turn it into something useful.
 
-- **Velocity:**
--   Velocity refers to the high speed of accumulation of data.
--   In Big Data velocity data flows in from sources like machines, networks, social media, mobile phones etc.
--   There is a massive and continuous flow of data. This determines the potential of data that how fast the data is generated and processed to meet the demands.
--   Sampling data can help in dealing with the issue like ‘velocity’.
--   _Example:_ There are more than 3.5 billion searches per day are made on Google. Also, FaceBook users are increasing by 22%(Approx.) year by year.
+## [Data Engineer](data%20engineering.md)
+Also known as a data architect, is the one who **stores, processes and manages the data**. Cleans, organizes and stores data in a way that is easy to access and use. Is also the one who creates the data **pipelines**, the ones that connect the data from the source to the [data scientist](data%20scientist.md).
 
-- **Variety**
--   It refers to nature of data that is structured, semi-structured and unstructured data.
--   It also refers to heterogeneous sources.
--   Variety is basically the arrival of data from new sources that are both inside and outside of an enterprise. It can be structured, semi-structured and unstructured.
-    -   **Structured data**: This data is basically an organized data. It generally refers to data that has defined the length and format of data.
-    -   **Semi- Structured data**: This data is basically a semi-organised data. It is generally a form of data that do not conform to the formal structure of data. Log files are the examples of this type of data.
-    -   **Unstructured data**: This data basically refers to unorganized data. It generally refers to data that doesn’t fit neatly into the traditional row and column structure of the relational database. Texts, pictures, videos etc. are the examples of unstructured data which can’t be stored in the form of rows and columns.
+## [Data Analyst](data%20analysis.md)
+Is a subset of [[data science]] that focuses on **analyzing data to answer questions or test [[statistics|hypotheses]]** and to **extract insights** from data, **cleaning, transforming, and modeling data to discover useful information** suggesting conclusions, and supporting decision-making.
 
-**Veracity**
--   It refers to inconsistencies and uncertainty in data, that is data which is available can sometimes get messy and quality and accuracy are difficult to control.
--   Big Data is also variable because of the multitude of data dimensions resulting from multiple disparate data types and sources.
--   _Example:_ Data in bulk could create confusion whereas less amount of data could convey half or Incomplete Information.
+1. Ask a question (or a few questions)
+2. Prepare data ([[big data|get data]])
+3. Process data (get insights)
+4. [[computer graphics|Visualize results]]
+5. Share results
 
-**Value:**
--   After having the 4 V’s into account there comes one more V which stands for Value!. The bulk of Data having no Value is of no good to the company, unless you turn it into something useful.
--   Data in itself is of no use or importance but it needs to be converted into something valuable to extract Information. Hence, you can state that Value! is the most important V of all the 5V’s.
+## [Data Scientist](data%20scientist.md)
+Is the one who **uses the data to create new knowledge**. Is the one who **creates the models** that will be used by the [[machine learning]].
 
-
-### [[artificial intelligence|Artificial Intelligence]]
-Algorithms that emulate the natural human intelligence.
-Regocnize patterns in big quantities of data.
-
-##### [[machine learning]]
-Used in [[artificial intelligence]] to train the AI model that can solve a determinated problem.
-1. Input the train data
-2. Train the algorithm to solve that problem
-3. Get the model & try to use it to **predict** some outputs using different data.
-4. Evaulate the model to see if it's viavle to use it & improve it (step 2).
-![[machine_learning.png]]
+## [Machine Learning Engineer](./artificial_intelligence/machine%20learning.md#machine-learning-engineer)
+Is the one who **creates, trains and deploys the models**. Is the one who **creates the [[application programming interface|API]]** that will be used by the [[data scientist]].
 
 ----
-
-### Data Analyst
-- a
-
-### Data Scientist
-- a
-
-### Data Engineer
-
-
-##### References
+## References
 - https://platzi.com/cursos/ingenieria-datos/
-
-
-----
-
-### Machine Learning Engineer
-
+- [Análisis de Negocios para Ciencia de Datos](https://platzi.com/cursos/negocios-data-science/?school=_escuela_escuela-datos_)
+- [Ética y Manejo de Datos para Data Science e Inteligencia Artificial](https://platzi.com/cursos/etica-ia/?school=_escuela_escuela-datos_)

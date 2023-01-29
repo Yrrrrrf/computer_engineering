@@ -6,8 +6,8 @@ This type of [[data bases|database]] also support an [[sql|SQL]] query.
 ##### Non-relational DB Hierarchy
 ![[NOSQL Hierarchy.png]]
 
-### [[nosql|NoSQL]] [[data bases|databases]] types
-There're a lot of different types of [[nosql|NoSQL]] [[data bases|databases]] created thinking in a specific purpose.
+### NoSQL [[data bases|databases]] types
+There're a lot of different types of NoSQL [[data bases|databases]] created thinking in a specific purpose.
 
 - **Key - value**
 These type is ideal to store & get lots of data using it's associated key. Used in BigData.

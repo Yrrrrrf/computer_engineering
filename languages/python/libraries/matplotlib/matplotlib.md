@@ -1,5 +1,5 @@
 # [matplotlib](https://matplotlib.org/)
-Is a [[python]] library for creating charts and graphs. It provides high-performance, easy-to-use data structures and data analysis tools.
+Is a [[python]] library for **creating charts and graphs**. It provides high-performance, easy-to-use data structures and data analysis tools.
 
 ## Installation
 ```bash

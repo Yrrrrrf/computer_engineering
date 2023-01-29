@@ -3,6 +3,8 @@
 Is the study of [[logic]] [[algorithms]] that use numerical approximation (as opposed to symbolic manipulations) for the problems of mathematical analysis (as distinguished from discrete mathematics).
 
 
+## Index
+
 ### [One Variable Equations](/math/numerical_analysis/one_variable_equations.ipynb)
 - Closed methods:
     - bisection method `(2.1)`

@@ -2,7 +2,7 @@
 
 Is a [[python]] library for symbolic mathematics. It provides high-performance, easy-to-use data structures and data analysis tools. It aims to become a full-featured computer algebra system (CAS) while keeping the code as simple as possible in order to be comprehensible and easily extensible.
 
-**Lambdify**: Is a function that **converts SymPy expressions into pure [[python]] functions**, allowing for [[numpy]] and [[scipy]] to be used for fast numerical computations. It can produce [[TensorFlow]] compatible functions using `lambdify(modules='tensorflow')`.
+**Lambdify**: Is a function that **converts SymPy expressions into pure [[python]] functions**, allowing for [[numpy]] and [[scipy]] to be used for fast numerical computations. It can produce [[tensorflow|TensorFlow]] compatible functions using `lambdify(modules='tensorflow')`.
 
 The `preview()` function can be used to preview the [[LaTeX]] representation of SymPy expressions in the Jupyter notebook.
 

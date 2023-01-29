@@ -6,4 +6,4 @@ Is a computer program that directly **executes instructions written in a [[progr
 
 1. Parse the source code and perform its behavior directly;
 2. Translate source code into some efficient intermediate representation or object code and immediately execute that;
-3. Explicitly execute stored precompiled bytecode made by a [[compiler]] and matched with the interpreter [[virtual machine|Virtual Machine]].
+3. Explicitly execute stored precompiled bytecode made by a [[compilers]] and matched with the interpreter [[virtual machine|Virtual Machine]].

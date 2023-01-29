@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "90ad7da77c6a4ecf",
+        "id": "6b2dcb86d31ddd2a",
         "type": "tabs",
         "children": [
           {
-            "id": "2749a1f1b043b87a",
+            "id": "78a2a52e656b8d99",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -91,7 +91,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -125,8 +125,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -143,17 +142,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2749a1f1b043b87a",
+  "active": "78a2a52e656b8d99",
   "lastOpenFiles": [
-    "software_architecture/software resources.md",
-    "schedule.md",
+    "data_science/artificial_intelligence/deep learning.md",
+    "resources/img/data_science/dropout.png",
+    "languages/python/libraries/dask/dask.md",
+    "languages/python/libraries/scikit-learn/scikit-learn.md",
+    "computer_networks/computer network.md",
+    "data_science/artificial_intelligence/machine learning.md",
     "data_science/artificial_intelligence/artificial intelligence.md",
-    "logic/algorithms.md",
     "data_science/data science.md",
-    "software_architecture/compilers/compilers.md",
-    "software_architecture/software.md",
-    "software_architecture/testing/testing.md",
-    "computer_architecture/hardware/hardware.md",
-    "computer_architecture/computer architecture.md"
+    "data_science/data scientist.md",
+    "data_science/data engineering.md"
   ]
 }

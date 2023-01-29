@@ -15,14 +15,14 @@
       }
     },
     {
-      "query": "path:software_architecture/design",
+      "query": "path:data_science/artificial_intelligence",
       "color": {
         "a": 1,
         "rgb": 11141375
       }
     },
     {
-      "query": "path:software_architecture",
+      "query": "path:data_science/",
       "color": {
         "a": 1,
         "rgb": 3375615
@@ -33,6 +33,20 @@
       "color": {
         "a": 1,
         "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:operating_systems/",
+      "color": {
+        "a": 1,
+        "rgb": 27463
+      }
+    },
+    {
+      "query": "path:software_architecture/compilers",
+      "color": {
+        "a": 1,
+        "rgb": 16766208
       }
     }
   ],
@@ -46,6 +60,6 @@
   "repelStrength": 8.02083333333333,
   "linkStrength": 1,
   "linkDistance": 201,
-  "scale": 0.8453301630972304,
+  "scale": 0.9453390564035035,
   "close": false
 }
