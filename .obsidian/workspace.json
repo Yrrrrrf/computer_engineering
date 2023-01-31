@@ -144,6 +144,7 @@
   },
   "active": "78a2a52e656b8d99",
   "lastOpenFiles": [
+    "todo.md",
     "data_science/artificial_intelligence/deep learning.md",
     "resources/img/data_science/dropout.png",
     "languages/python/libraries/dask/dask.md",
@@ -152,7 +153,6 @@
     "data_science/artificial_intelligence/machine learning.md",
     "data_science/artificial_intelligence/artificial intelligence.md",
     "data_science/data science.md",
-    "data_science/data scientist.md",
-    "data_science/data engineering.md"
+    "data_science/data scientist.md"
   ]
 }
