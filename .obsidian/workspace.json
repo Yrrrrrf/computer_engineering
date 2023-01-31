@@ -142,6 +142,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "78a2a52e656b8d99",
   "lastOpenFiles": [
     "todo.md",
@@ -154,5 +155,19 @@
     "data_science/artificial_intelligence/artificial intelligence.md",
     "data_science/data science.md",
     "data_science/data scientist.md"
+=======
+  "active": "bb5a55dc343178dd",
+  "lastOpenFiles": [
+    "math/numerical_analysis/numerical analysis.md",
+    "languages/web/css/css.md",
+    "programming/language.md",
+    "software_architecture/design/mermaid.md",
+    "software_architecture/design/design.md",
+    "software_architecture/design/flow diagram.md",
+    "logic/algorithms.md",
+    "computer_networks/web/frontend.md",
+    "software_architecture/uml.md",
+    "software_architecture/software.md"
+>>>>>>> pending_stuff
   ]
 }
