@@ -16,21 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "c05877003166ffb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "math/numerical_analysis/numerical analysis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/numerical_analysis/numerical analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/numerical_analysis/numerical analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "math/numerical_analysis/numerical analysis.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -160,8 +143,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c05877003166ffb5",
+  "active": "bb5a55dc343178dd",
   "lastOpenFiles": [
+    "math/numerical_analysis/numerical analysis.md",
     "languages/web/css/css.md",
     "programming/language.md",
     "software_architecture/design/mermaid.md",
@@ -170,7 +154,6 @@
     "logic/algorithms.md",
     "computer_networks/web/frontend.md",
     "software_architecture/uml.md",
-    "software_architecture/software.md",
-    "math/numerical_analysis/numerical analysis.md"
+    "software_architecture/software.md"
   ]
 }
