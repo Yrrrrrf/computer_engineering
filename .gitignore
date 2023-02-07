@@ -129,7 +129,6 @@ dmypy.json
 
 # Ignore ----------------------
 desktop.ini
-rust/
 todo.md
 schedule.md
-
+rust/

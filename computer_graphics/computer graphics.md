@@ -6,15 +6,12 @@ Is the study of **digital visual content**, and the techniques used to create an
 - pixel graphics
 - vector graphics
 - raster graphics
-- generative [[machine learning]] models
+-  [[plotting]] is the act of drawing a graph or diagram that **represents the relationship between variables**.
+
 
 ## [[3D graphics]]
 Usually, 3D graphics refers to computer graphics that use a 3D representation of geometric data (often Cartesian) that is stored in the computer for the purposes of performing calculations and rendering 2D images. Such images may be for later display on a 2D screen, a 3D screen, or a printed page.
-
-## [[plotting]]
-Is the act of drawing a graph or diagram that **represents the relationship between variables**.
-
-## [[modeling]]
+### [[modeling]]
 Is the process of creating a mathematical representation of a real-world object or concept. It is a key component of computer graphics, computer-aided design, and computer-aided manufacturing.
 
 ## [[animation]]

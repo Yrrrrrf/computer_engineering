@@ -8,45 +8,59 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:computer_architecture",
-      "color": {
-        "a": 1,
-        "rgb": 15997466
-      }
-    },
-    {
       "query": "path:data_science/artificial_intelligence",
       "color": {
         "a": 1,
-        "rgb": 11141375
+        "rgb": 54783
       }
     },
     {
-      "query": "path:data_science/",
+      "query": "path:computer_architecture/digital_systems",
       "color": {
         "a": 1,
-        "rgb": 3375615
-      }
-    },
-    {
-      "query": "path:schedule.md",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "path:operating_systems/",
-      "color": {
-        "a": 1,
-        "rgb": 27463
+        "rgb": 16774912
       }
     },
     {
       "query": "path:software_architecture/compilers",
       "color": {
         "a": 1,
-        "rgb": 16766208
+        "rgb": 25210
+      }
+    },
+    {
+      "query": "path:computer_architecture/embedded_systems",
+      "color": {
+        "a": 1,
+        "rgb": 16743168
+      }
+    },
+    {
+      "query": "path:operating_systems",
+      "color": {
+        "a": 1,
+        "rgb": 48431
+      }
+    },
+    {
+      "query": "path:data_science",
+      "color": {
+        "a": 1,
+        "rgb": 6094991
+      }
+    },
+    {
+      "query": "path:computer_architecture",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "file:schedule.md",
+      "color": {
+        "a": 1,
+        "rgb": 0
       }
     }
   ],
@@ -56,14 +70,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.489583333333333,
-  "repelStrength": 8.02083333333333,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 201,
-<<<<<<< HEAD
-  "scale": 0.9453390564035035,
-=======
-  "scale": 0.6614184470750386,
->>>>>>> pending_stuff
+  "linkDistance": 250,
+  "scale": 0.6711676495185446,
   "close": false
 }

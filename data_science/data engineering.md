@@ -3,7 +3,6 @@
 Is a subset of [[data science]] that focuses on create pipelines and ETL... #Uncomplete 
 
 
-
 ## Data Mining
 Is the process of discovering patterns in large data sets involving methods at the intersection of [[machine learning]], [[statistics]], and [[data bases|database]] systems.
 Is the process of extracting useful information from a large amount of data and transforming it into an understandable structure for further use.

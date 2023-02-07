@@ -55,10 +55,16 @@ Is a subset of [[data science]] that focuses on **analyzing data to answer quest
 Is the one who **uses the data to create new knowledge**. Is the one who **creates the models** that will be used by the [[machine learning]].
 
 ## [Machine Learning Engineer](./artificial_intelligence/machine%20learning.md#machine-learning-engineer)
-Is the one who **creates, trains and deploys the models**. Is the one who **creates the [[application programming interface|API]]** that will be used by the [[data scientist]].
+Is the one who **creates, trains and deploys the models**. Is the one who **creates the API** that will be used by the [[data scientist]].
 
 ----
 ## References
 - https://platzi.com/cursos/ingenieria-datos/
 - [Análisis de Negocios para Ciencia de Datos](https://platzi.com/cursos/negocios-data-science/?school=_escuela_escuela-datos_)
 - [Ética y Manejo de Datos para Data Science e Inteligencia Artificial](https://platzi.com/cursos/etica-ia/?school=_escuela_escuela-datos_)
+
+
+----
+# [6th Semester stuff](/schedule.md)
+
+

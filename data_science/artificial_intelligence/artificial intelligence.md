@@ -1,17 +1,30 @@
 # Artifitial Intelligence
 
-Is the simulation of human intelligence processes by machines, especially computer systems. These processes include learning (the acquisition of information and rules for using the information), reasoning (using rules to reach approximate or definite conclusions) and self-correction. Particular applications of AI include **expert systems, speech recognition and machine vision**. I uses [[data science]] to train the AI model that can solve a determinated problem.
+Is the simulation of human intelligence processes by machines, especially computer systems. These processes include learning (the acquisition of information and rules for using the information), reasoning (using rules to reach approximate or definite conclusions) and self-correction. Particular applications of AI include **expert systems, speech recognition and machine vision**. I uses [data science](../data%20science.md) to train the AI model that can solve a determinated problem.
 
-## [[machine learning|Machine Learning]]
+## [Machine Learning](machine%20learning.md)
 Is a branch of artificial intelligence that uses statistical techniques to give computer systems the ability to learn from data without being explicitly programmed.
 Is a method of data analysis that automates analytical model building.
 
-## [[deep learning|Deep Learning]]
-Is a subset of machine learning in artificial intelligence that has networks capable of learning unsupervised from data that is unstructured or unlabeled.
+## [Deep Learning](deep%20learning.md)
+Is a subset of machine learning in artificial intelligence that has networks capable of **learning unsupervised** from data that is unstructured or unlabeled.
 
 ----
 
-# 6th semester stuff
+# [6th semester stuff](/schedule.md)
+
+### Evaluation
+- 20% hw and practicals
+- 50% exams (2 exams)
+- 30% project
+    - software that solve and **specific task**
+    - gui
+
+
+- `book`:
+    - Russel, Stuart: "Artificial Intelligence: A Modern Approach", 4th Edition
+    - Bishop, Christopher: "Pattern Recognition and Machine Learning", 1st Edition
+    - De Jong, Kenneth: "Evolutionary Computation: A Unified Approach", 1st Edition
 
 1 Introduction to Artificial Intelligence
 - turing test

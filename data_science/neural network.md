@@ -16,3 +16,4 @@ A convolutional neural network is a type of supervised learning where the algori
 
 ### What is the difference between a generative adversarial network and a reinforcement learning algorithm?
 A generative adversarial network is a type of unsupervised learning where the algorithm learns to predict a continuous value. A reinforcement learning algorithm is a type of unsupervised learning where the algorithm learns to predict a continuous value. A reinforcement learning algorithm is a neural network with a feedback loop.
+
