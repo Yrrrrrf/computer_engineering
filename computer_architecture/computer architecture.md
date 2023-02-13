@@ -3,7 +3,6 @@
 Includes the **physical parts of a computer**, such as, [[cpu|CPU]], [[random access memory|RAM]], [[memory]], mouse, keyboard, [[storage|computer data storage]], [[gpu|GPU]], sound card, speakers and [[motherboard]].
 By contrast, software is the set of instructions that can be stored and run by hardware. 
 
-
 ### [[Von Neumann]] architecture
 Describes a design architecture for an electronic digital computer with subdivisions of a processing unit consisting of an arithmetic logic unit and processor registers, a control unit containing an instruction register and program counter, a memory to store both data and instructions, external mass storage, and input and output mechanisms.
 
@@ -25,6 +24,9 @@ The **arithmetic logic unit (ALU)** is the part of the computer that performs ar
 
 
 # [6th Semester stuff](/schedule.md)
+
+
+
 
 0 Fundamentals of Computer Architecture
 - computer architecture

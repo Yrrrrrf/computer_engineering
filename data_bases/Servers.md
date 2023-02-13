@@ -1,6 +1,6 @@
 # Server
 Is a piece of computer hardware or software that provides functionality for other programs or devices, called **clients**. This architecture is called the **client–server model**.
-- The main duty of a server is hosting applications to send (as a [[HyperText Transfer Protocol#Response|response]]) to the **client**.
+- The main duty of a server is hosting applications to send (as a [[http#Response|response]]) to the **client**.
 
 ![[Request Response.png]]
 

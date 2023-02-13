@@ -16,21 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "f66a9e533342d4b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "programming/regular expressions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/regular expressions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/regular expressions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "programming/regular expressions.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,17 +141,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f66a9e533342d4b6",
+  "active": "294fa6a191762b8a",
   "lastOpenFiles": [
-    "data_science/big data.md",
+    "computer_networks/web/frontend.md",
     "data_science/data science.md",
-    "operating_systems/operating system.md",
     "schedule.md",
-    "software_architecture/compilers/compilers.md",
-    "languages/bash/bash.md",
-    "programming/programming language.md",
-    "hw1 orcad_pspice.md",
+    "physics/electromagnetism/electric circuit.md",
+    "languages/python/libraries/httpx/httpx.md",
     "software_architecture/software resources.md",
-    "data_science/artificial_intelligence/artificial intelligence.md"
+    "computer_networks/data_communication/data comunication.md",
+    "computer_networks/web/http.md",
+    "data_bases/servers.md",
+    "computer_networks/web/service.md"
   ]
 }

@@ -131,4 +131,4 @@ dmypy.json
 desktop.ini
 todo.md
 schedule.md
-rust/
+/target

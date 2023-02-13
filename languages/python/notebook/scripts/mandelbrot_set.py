@@ -38,10 +38,19 @@ def mandelbrot(threshold, density, width, height):
             atlas[ix, iy] = count_iterations_until_divergent(c, threshold)
             pass
         pass
+
+    # save img
+    plt.imsave('mandelbrot_set.png', atlas.T, cmap='hot', interpolation='nearest')
+
+
     # plot and display mandelbrot set
     plt.imshow(atlas.T, interpolation="nearest")
     plt.show()
 
 
+
 # mandelbrot(threshold, density,  width, height)
-mandelbrot(120, 4096, 1920, 1080)
+
+
+if __name__ == '__main__':
+    mandelbrot(120, 4096, 1920, 1080)

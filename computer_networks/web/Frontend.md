@@ -7,4 +7,7 @@ The main technologies used for the frontend are:
 - [[css]]
 - [[javascript]]
 
+![[Pasted image 20230212143208.png]]
+
+
 [[design]]

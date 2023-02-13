@@ -28,6 +28,7 @@ graph LR
     type_checking --> symbol_table{{Symbol<br/>Table}}
 ```
 
+
 ### Lexical analysis `finite automata`
 Is the process of **converting a sequence of characters into a sequence of tokens** (strings with an identified *meaning*).
 
@@ -42,11 +43,16 @@ Is the process of **analyzing the meaning of a sequence of tokens**, usually in 
 
 # [6th Semester stuff](/schedule.md)
 -> [regular expressions](/programming/regular%20expressions.md)
+-> []()
 
-Evaluation:
-- 50% exam
-- 40% project
-- 10% homework
+Evaluation (2 exams, 1 project, # homework):
+- 50% exam (wed march 29th, wed june 7th)
+- 40% project (compiler using [rust](/languages/rust/rust.md))
+- 10% homeworks
+
+
+the **project is a requirement for the exam**
+- project 1 (map a web page (tree) to a json file) **NO REGEX OR XPATH**
+- project 2 (compiler)
 
 `Book`: Compilers: Principles, Techniques, and Tools, 2nd Edition, Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman
-

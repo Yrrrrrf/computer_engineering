@@ -5,6 +5,16 @@ Is the main way to get data from the [[web]]. Usually it's used to get data from
 
 [[xpath]] is the most common way to do it, but there are other ways to do it, like using **selenium** or **scrapy**.
 
+## Data Sources
+- [google ia hub](https://aihub.cloud.google.com/u/0/)
+- [[web]]
+    - [Kaggle](https://www.kaggle.com/datasets) (datasets)
+    - [github api list](https://github.com/public-api-lists/public-api-lists)
+- [[aplication programming interface|API]]
+- internet of things
+- user analytics
+
+
 ## Libraries
 
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)

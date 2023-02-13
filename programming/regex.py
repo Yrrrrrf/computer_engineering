@@ -3,6 +3,7 @@ Regular Expression (RegEx)
 Is a sequence of characters that define a search pattern, used to perform pattern-matching and "search-and-replace" functions on text.
 '''
 
+
 import re  # regular expression
 
 
@@ -26,9 +27,3 @@ def main() -> None:
 
 if __name__ == '__main__':
     main()
-
-
-
-
-
-

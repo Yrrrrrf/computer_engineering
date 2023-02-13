@@ -24,6 +24,7 @@ Is the study of [[logic]] [[algorithms]] that use numerical approximation (as op
 - Iterative Refinement `(7.4)`
 - Conjugate Gradient Method `(7.5)`
 
+
 ##### [Direct Methods](/math/numerical_analysis/linear_systems_direct.ipynb)
 - LU Factorization `(6.4)`
     - Doolittle Algorithm (Linear Algebra)

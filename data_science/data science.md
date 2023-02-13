@@ -30,7 +30,7 @@ flowchart LR
     ml_model --> model[production]
 ```
 
-## [[big data|Big Data]]
+## [Big Data](big%20data.md)
 Concept use when we've big volumes of data, very varied and fast, so much that it's difficult to process them with traditional methods.
 - **Volume** name ‘Big Data’ itself is related to a size which is enormous. Is a huge amount of data.
 - **Velocity:** Velocity refers to the high speed of accumulation of data. In Big Data velocity data flows in from sources like machines, networks, social media, mobile phones etc.
@@ -46,16 +46,16 @@ Also known as a data architect, is the one who **stores, processes and manages t
 Is a subset of [[data science]] that focuses on **analyzing data to answer questions or test [[statistics|hypotheses]]** and to **extract insights** from data, **cleaning, transforming, and modeling data to discover useful information** suggesting conclusions, and supporting decision-making.
 
 1. Ask a question (or a few questions)
-2. Prepare data ([[big data|get data]])
+2. Prepare data [get data](big%20data.md))
 3. Process data (get insights)
 4. [[computer graphics|Visualize results]]
 5. Share results
 
 ## [Data Scientist](data%20scientist.md)
-Is the one who **uses the data to create new knowledge**. Is the one who **creates the models** that will be used by the [[machine learning]].
+Is the one who **uses the data to create new knowledge**. Is the one who **creates the models** that will be used by the [machine learning](./artificial_intelligence/machine%20learning.md)
 
 ## [Machine Learning Engineer](./artificial_intelligence/machine%20learning.md#machine-learning-engineer)
-Is the one who **creates, trains and deploys the models**. Is the one who **creates the API** that will be used by the [[data scientist]].
+Is the one who **creates, trains and deploys the models**. Is the one who **creates the API** that will be used by the [data scientist](.data%20scientist).
 
 ----
 ## References

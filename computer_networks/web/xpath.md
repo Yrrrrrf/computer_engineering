@@ -72,3 +72,8 @@ XPath contains a number of functions to use in path expressions. The following t
 - `round-half-to-even()`: Returns the number rounded to the nearest integer, with half-way cases rounded to the nearest even integer.
 - `codepoints-to-string()`: Returns the string resulting from converting the argument to a sequence of Unicode code points.
 
+
+# USE XPATH GO GET A PRE TAG
+```xpath
+$x('//pre/text()').map(x => x.wholeText)  # using js
+```

@@ -13,10 +13,9 @@ We can use the `get` method to make a **GET** request to the API. The `get` meth
 
 ```python
 import requests
-# Make a request to the API
-response = requests.get("api url")
-# Get the response in json format
-response.json()
+
+response = requests.get("api url")  # Make a request to the API
+response.json()  # Get the response in json format (if the response is in json format)
 ```
 
 

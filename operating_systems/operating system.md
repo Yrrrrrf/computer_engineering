@@ -110,6 +110,7 @@ Distributed systems **use many central processors to serve multiple real-time ap
 # [6th Semester stuff](/schedule.md)
 - languages: `C` or `Java`
 
+
 Evaluation
 - 25% HW one/week
 - 15% exam x3
