@@ -24,7 +24,10 @@ The **arithmetic logic unit (ALU)** is the part of the computer that performs ar
 
 
 # [6th Semester stuff](/schedule.md)
-
+Evaluation:
+- exam(x2) 25% -> 50%
+- homework 30%
+- projects 20%
 
 
 
@@ -59,3 +62,17 @@ The **arithmetic logic unit (ALU)** is the part of the computer that performs ar
 - motherboard, primary and secondary storage
 - memory technologies
 - input and output devices (also energy supply)
+
+----
+
+### Sum two numbers in assembly language
+The following code is an example of how to sum two numbers in assembly language.
+
+```assembly
+mov ax, 5
+mov bx, 10
+add ax, bx
+```
+
+- `a` on asqii -> 97
+- 

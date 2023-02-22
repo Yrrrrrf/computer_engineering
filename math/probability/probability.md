@@ -37,7 +37,7 @@ Is an essential part of [[statistics]]. It is used to calculate the **probabilit
 - t-distribution
 - f-distribution
 
-#### [joint distributions](joint_distributions.ipynb)
+#### [Joint Distributions](joint_distributions.ipynb)
 - marginal distribution
 - bivariate normal distribution
 - multivariate normal distribution

@@ -143,15 +143,15 @@
   },
   "active": "294fa6a191762b8a",
   "lastOpenFiles": [
-    "computer_networks/web/frontend.md",
-    "data_science/data science.md",
-    "schedule.md",
-    "physics/electromagnetism/electric circuit.md",
-    "languages/python/libraries/httpx/httpx.md",
-    "software_architecture/software resources.md",
-    "computer_networks/data_communication/data comunication.md",
-    "computer_networks/web/http.md",
-    "data_bases/servers.md",
-    "computer_networks/web/service.md"
+    "operating_systems/operating system.md",
+    "computer_architecture/digital_systems/digital systems.md",
+    "computer_networks/web/web scrapping.md",
+    "languages/rust/links.md",
+    "languages/rust/rust.md",
+    "languages/java/libraries/swing/README.md",
+    "languages/java/notebook/scripts/README.md",
+    "todo.md",
+    "math/statistics/statistics.md",
+    "math/probability/probability.md"
   ]
 }

@@ -8,7 +8,7 @@ Pandas is built on top of [[numpy]].
 pip install pandas
 ```
 
-## Usage
+## [Usage](pandas.ipynb)
 ```python
 import pandas as pd
 ```

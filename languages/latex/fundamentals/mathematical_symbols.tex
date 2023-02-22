@@ -1,0 +1,104 @@
+% DON'T USE TAB. TAB BREAKS MUST OF THE \LaTeX CODE.
+\documentclass{article}
+
+\usepackage{amsmath}
+
+\title{Basic amsmath package Manipulation}
+\author{Yrrrrrf}
+\date{July 7th, 2020}
+
+\begin{document}
+
+    \maketitle
+
+    \normalsize Hi Math Symbols! \\ \raggedright
+    There are two math modes int \LaTeX. \\
+    Display Style Math that'll put the equations below the text. \\
+    Inline/Text Style Math, that'll put math equations in the same line as the text.
+    \\[\baselineskip]
+    All equations are \textbf{centered} by default.
+    \\[2\baselineskip]
+
+    \section{Display Style Math}
+        % Is centerred by default.
+        Puts math on below the text.
+
+        % \[equation \]
+        \[f(x) = (x+2)^3 - 9/3 + \frac{x}{2} \] \\
+
+        % Display math environment.
+        Used when we want to many equations consecutively.
+        \begin{align*}
+            % AND (&) operator tell LaTeX where the alignment will be.
+            f(x,y) & = a^2 + 2ab + b^2 \\
+                & = (a+b)^2 \\
+        \end{align*}
+
+        Using the star will make the equations automaticly numbered.
+        \begin{align}
+            % This can also be used many times in a same line.
+            2x+1 & = 9 & 3y+x & =13\\
+            2x & =8 & 3y & =9 \\
+            \nonumber % Will skip the number in the next line
+            x & =4 & y & =3
+        \end{align}
+
+
+    \section{Inline/Text Style Math}
+        Notice that by sybstitution we get the equation \(f(x) = x^2 + 4x + 6\).
+        The variable \(x\) is substituted by the value of \(x\) in the equation. \\[\baselineskip]
+        Another way to do this si using the \verb|$|.Writting the equation inside the \verb|$|.
+        In the form $f(x) = some_eqcuaiton$
+
+
+    \section{Basic Notation}
+        \underline{Arithmetic}
+        \begin{align*}
+            1 + 1 \\
+            5 - 3 \\
+            6 \cdot 4 \\
+            6 \times 4 \\
+            27 \div 9 \\
+        \end{align*}
+
+        \underline{Fractions}
+        \begin{align*}
+            % \frac{numerator}{denominator}
+            \frac{x^2 + 3}{6 \times 4} \\
+            % DISPLAY STYLE \dfrac{numerator}{denominator} \\ 
+            \dfrac{23}{6 \div 12} \\ 
+            % IN LINE STYLE \tfrac{numerator}{denominator} \\
+            \tfrac{23}{6 \div 12} \\
+        \end{align*}
+
+
+    \section{Superscript and Subscript Notation}
+        {\large \underline{Superscript}} \\
+        Using a \textbf{caret} symbol will display a Superscript. \\
+        Display Style \( \displaystyle e^{2y'} \) \\
+        In line Style \( \textstyle e^{2x} \) \\[\baselineskip]
+
+        {\large \underline{Subscript}} \\
+        Using an \textbf{underscore} symbol will display a Subscript. \\
+        Display Style \( \displaystyle x_2 \) \\
+        In line Style \( \textstyle x_2 \) \\[\baselineskip]
+
+        {\large \underline{Subscript and Superscript}} \\
+        When we use \textbf{both at the same time}, the order doesn't matter. \\
+        Example Code: \( \displaystyle y' = x^e_1  \) \\[\baselineskip] 
+
+        Of course is possible to stack each other. \\
+        Stacked Example: \( \displaystyle p_1^{x_0} \times x^e_2 \) \\
+        Is preferable to use \textbf{Offset notation} because is much easier to read.
+        Offset Example: \( \displaystyle {p_1}^{x_0} \times x^e_2 \) \\
+
+
+    \section{Parentheses}
+        
+
+
+    \section{Some new section undiscovered yet}
+
+
+
+\end{document}

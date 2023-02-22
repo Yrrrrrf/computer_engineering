@@ -25,7 +25,7 @@ cargo install package_name  # installs the package
 cargo uninstall package_name  # uninstalls the package
 ```
 
-## [main](/notebook/src/main.rs)
+## [main](./notebook/src/main.rs)
 To run any Rust program, you need to have a `main` function. The `main` function is the entry point of the program.
 ```rust
 fn main() {  // main is the entry point of the program

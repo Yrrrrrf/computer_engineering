@@ -28,8 +28,7 @@ graph LR
     type_checking --> symbol_table{{Symbol<br/>Table}}
 ```
 
-
-### Lexical analysis `finite automata`
+### Lexical analysis `(finite automata)`
 Is the process of **converting a sequence of characters into a sequence of tokens** (strings with an identified *meaning*).
 
 ### Syntax analysis (parsing) `LL(1) parser`
@@ -40,19 +39,28 @@ Is the process of **analyzing the meaning of a sequence of tokens**, usually in 
 
 `LL(1) parser` == **recursive descent parser**.
 
+### Intermediate code generation
+Is the process of **generating an intermediate code** from the output of the syntax analysis phase and the symbol table.
+
+### Code optimization and generation
+Is the process of **optimizing the intermediate code** and **generating the target code**.
+
+
+
 
 # [6th Semester stuff](/schedule.md)
--> [regular expressions](/programming/regular%20expressions.md)
--> []()
-
 Evaluation (2 exams, 1 project, # homework):
 - 50% exam (wed march 29th, wed june 7th)
 - 40% project (compiler using [rust](/languages/rust/rust.md))
 - 10% homeworks
 
 
+
+
 the **project is a requirement for the exam**
-- project 1 (map a web page (tree) to a json file) **NO REGEX OR XPATH**
-- project 2 (compiler)
+- project 1 [WEB CRAWLER]
+    - [regular expressions](/programming/regular%20expressions.md)
+- project 2 (compiler) 
+    - [compiler](https://platzi.com/clases/2188-desarrollo-lenguajes-programacion/34948-que-es-un-compilador/)
 
 `Book`: Compilers: Principles, Techniques, and Tools, 2nd Edition, Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman

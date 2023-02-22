@@ -2,6 +2,8 @@
 
 XPath is a [[script language|language]] for selecting nodes from an `XML` document using **path expressions** to navigate in XML documents.
 
+Is like the equivalent of a [[regular expression]] for [[XML]] documents.
+
 It's usually used to [[web scrapping|extract data from XML documents]] in a [[web]] page. 
 
 ## XPath Syntax

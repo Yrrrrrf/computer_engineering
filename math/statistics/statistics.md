@@ -4,7 +4,7 @@ Is the branch of mathematics that deals with the **collection, organization, sum
 
 ## Index
 
-### [probability|Probability](../probability/probability.md)
+### [Probability](../probability/probability.md)
 Is the branch of mathematics that deals with the **analysis of random phenomena**. It is used to calculate the likelihood that an event will occur or not occur.
 
 #### [basic concepts](../probability/probability.ipynb)

@@ -1,0 +1,72 @@
+\documentclass{article}
+% \documentclass[12pt]{article}
+% \documentclass[defaultFont.pt]{article}
+% This will affect to the changingSize comands
+
+\usepackage{ulem} % To underline text
+
+
+\title{Basic Text Manipulation}
+\author{me}
+\date{July 7th, 2020}
+
+
+\begin{document}
+
+    \maketitle % Actually create the tile
+
+    \section{Text Sizes}
+    {\tiny 5 points} \\ \raggedright
+    {\scriptsize 7 points} \\
+    {\footnotesize 8 points} \\
+    {\normalsize 10 points (default)} \\
+    {\large 12 points} \\
+    {\Large 14 points} \\
+    {\LARGE 17 points} \\
+    {\huge 20 points} \\
+    {\Huge 25 points} \\
+    \normalsize Some size {\LARGE c h a n g e} examples
+    \\[2\baselineskip]
+
+
+    \section{Text Formats}
+    \textbf{Bold text} \\ \raggedright
+    \textit{Italic text} \\
+    \textbf{\textit{\underline{Bold italic underlined text}}} \\
+    \texttt{Typewriter text} \\
+    \textsc{Small caps text} \\
+    \textsf{Small font text}
+    \\[2\baselineskip]
+
+    
+    \section{ulem package}
+    \underline{Underlined text} \\ \raggedright
+    \uuline{Double underline} \\
+    \uwave{Wavy underlined text}
+    \\[2\baselineskip]
+    \normalem % Switch to normal text mode when using \ulem{} package
+
+
+    \section{Emphasize text}
+    \emph{Emphasized text} \\ \raggedright
+    \emph{Emphasized \emph{emphasize} text}
+    \\[2\baselineskip]
+
+
+    \section{Font Families}
+    \textrm{Default (Roman) text} \\ \raggedright
+    \textrm{Roman text} \\
+    \textsl{Slanted text} \\
+    \textsf{Sans serif text} \\
+    \texttt{Typewriter text} % Used for code snippets
+    \\[2\baselineskip]
+
+
+    \section{Text Alignment/Justification}
+    % By default all the text is justified
+    \begin{flushleft} Flush left text \end{flushleft}
+    \begin{center} Centered text \end{center}
+    \begin{flushright} Flush right text \end{flushright}
+
+
+\end{document}

@@ -13,24 +13,24 @@ Data types can be classified in different ways:
 - binary (`0b11111111`)  # 255
 
 ## Structured Data Types
-Are a set of **complex data types** that are constructed from primitive data types. They are the most basic building blocks of programming & all they are necessary to get a **complete turing machine**.
+Are a set of **complex data types** that are constructed from primitive data types.
 - array, list, vector
 - data base
 
 ## Semi-Structured Data Types
-Are a set of **complex data types** that are constructed from primitive data types. They are the most basic building blocks of programming & all they are necessary to get a **complete turing machine**.
+Are a set of **complex data types** that are constructed from primitive data types.
 - json, xml (extensible markup language)
 - csv, tsv (tab separated values)
 
 ## Unstructured Data Types
-Are a set of **complex data types** that are constructed from primitive data types. They are the most basic building blocks of programming & all they are necessary to get a **complete turing machine**.
+Are a set of **complex data types** that are constructed from primitive data types.
 - text, image, audio, video
 - cientific data
 - html
 - cv
 
 ## Cualitative vs Quantitative Data Types
-Are a set of **complex data types** that are constructed from primitive data types. They are the most basic building blocks of programming & all they are necessary to get a **complete turing machine**.
+Are a set of **complex data types** that are constructed from primitive data types.
 - Cualitative
     - Nominal
     - Ordinal
@@ -39,5 +39,11 @@ Are a set of **complex data types** that are constructed from primitive data typ
     - Continuous
 
 ## Historical Data Types
-Are a set of **complex data types** that are constructed from primitive data types. They are the most basic building blocks of programming & all they are necessary to get a **complete turing machine**.
+Are a set of **complex data types** that are constructed from primitive data types.
 - date, time
+
+
+## Abstract Data Types
+These are a set of **complex data types** that are constructed from primitive data types.
+![data types](List-ArrayList-in-Java-In-Depth-Study.png)
+

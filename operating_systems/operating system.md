@@ -110,6 +110,7 @@ Distributed systems **use many central processors to serve multiple real-time ap
 # [6th Semester stuff](/schedule.md)
 - languages: `C` or `Java`
 
+'
 
 Evaluation
 - 25% HW one/week
@@ -180,5 +181,11 @@ Evaluation
 
 ### kernel
 Is the core of the operating system. It is responsible for the allocation of resources to the various software components of the system. It is also responsible for the management of the various hardware components of the system.
+
 ### shell
 Is an interface that allows users to interact with the operating system. It is a command-line interface that allows users to enter commands and receive information.
+
+
+
+
+
