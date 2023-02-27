@@ -1,5 +1,5 @@
 # [pandas](https://pandas.pydata.org/)
-Is a [[python]] library for data analysis. It provides high-performance, easy-to-use data structures and data analysis tools.
+Is a [python](./../../python.md) library for data analysis. It provides high-performance, easy-to-use data structures and data analysis tools.
 
 Pandas is built on top of [[numpy]].
 

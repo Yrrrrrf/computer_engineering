@@ -59,7 +59,7 @@ Evaluation (2 exams, 1 project, # homework):
 
 the **project is a requirement for the exam**
 - project 1 [WEB CRAWLER]
-    - [regular expressions](/programming/regular%20expressions.md)
+    - [regular expressions](/languages/regular%20expressions.md)
 - project 2 (compiler) 
     - [compiler](https://platzi.com/clases/2188-desarrollo-lenguajes-programacion/34948-que-es-un-compilador/)
 

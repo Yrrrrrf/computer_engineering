@@ -1,6 +1,9 @@
 # [Rust](https://www.rust-lang.org/learn)
 
-This repository contains notes on [Rust](https://www.rust-lang.org/learn) programming language.
+Rust is a systems [[programming language]] that **runs blazingly fast, prevents segfaults, and guarantees thread safety**.
+
+It is designed to be a **safe, concurrent, and practical language**. It accomplishes these goals by being memory safe without using garbage collection.
+
 - [Installation Guide](https://www.rust-lang.org/tools/install)
 
 ## [Cargo](https://doc.rust-lang.org/cargo/)
@@ -15,11 +18,12 @@ cargo build  # builds the project
 cargo run  # builds and runs the project
 cargo run --bin file_name  # runs the file without building the project
 
-cargo check  # checks the project for errors
-cargo build --release  # builds the project in release mode
-
 cargo test  # runs the tests
-cargo test -- --test-threads=1  # runs the tests in a single thread
+cargo test -- --test-threads=1  # runs the tests with one thread
+cargo test -- --show-output  # runs the tests and shows the output
+cargo check  # checks the project for errors
+
+cargo build --release  # builds the project in release mode
 
 cargo install package_name  # installs the package
 cargo uninstall package_name  # uninstalls the package
@@ -33,7 +37,6 @@ fn main() {  // main is the entry point of the program
 }
 ```
 
-
 ## Jupyter Notebook w/ Rust Kernel
 ```bash
 cargo install evcxr_jupyter
@@ -43,6 +46,6 @@ evcxr_jupyter --install
 ----
 ## References
 - [std lib](https://doc.rust-lang.org/std/index.html)
-- [rsut guide](https://doc.rust-lang.org/edition-guide/introduction.html)
-- [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
+- [rust guide](https://doc.rust-lang.org/edition-guide/introduction.html)
+- [Rust by Example](https://doc.rust-lang.org/rust-by-example/) - A collection of runnable examples that illustrate various Rust concepts and standard libraries.
 

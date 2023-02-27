@@ -110,8 +110,6 @@ Distributed systems **use many central processors to serve multiple real-time ap
 # [6th Semester stuff](/schedule.md)
 - languages: `C` or `Java`
 
-'
-
 Evaluation
 - 25% HW one/week
 - 15% exam x3
@@ -120,12 +118,14 @@ Evaluation
     - team (two people)
 
 80% attendance < ord
-
 60% attendance < extra
-
 60% attendance > ets
 
-`Book`: [Distributed and Modern Operative Systems, by Andrew S. Tanenbaum](../../UAEMex/5%C2%B0%20Semestre/Sistemas%20Operativos/Modern%20Operating%20Systems%2C%20Andrew%20S.%20Tanenbaum.pdf)
+
+PROJECT 1: Implementation of product-consumer (w/ other example)
+
+
+`Book`: Distributed and Modern Operative Systems, by Andrew S. Tanenbaum
 
 ----
 1 Basic Computer Organization and Architecture

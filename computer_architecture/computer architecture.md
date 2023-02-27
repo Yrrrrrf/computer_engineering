@@ -29,7 +29,9 @@ Evaluation:
 - homework 30%
 - projects 20%
 
-
+march 20-24 first eval
+may  01-05 second eval
+june 05-09 third eval
 
 0 Fundamentals of Computer Architecture
 - computer architecture
@@ -44,6 +46,8 @@ Evaluation:
 
 2 memory and microoperations
 - data transfer
+- [semaphore (synchronization)](https://en.wikipedia.org/wiki/Semaphore_(programming))
+
 - memory buses and transfer
 - cache memory
 - arithmetic and logic microoperations

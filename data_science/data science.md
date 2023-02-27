@@ -63,7 +63,6 @@ Is the one who **creates, trains and deploys the models**. Is the one who **crea
 - [Análisis de Negocios para Ciencia de Datos](https://platzi.com/cursos/negocios-data-science/?school=_escuela_escuela-datos_)
 - [Ética y Manejo de Datos para Data Science e Inteligencia Artificial](https://platzi.com/cursos/etica-ia/?school=_escuela_escuela-datos_)
 
-
 ----
 # [6th Semester stuff](/schedule.md)
 
