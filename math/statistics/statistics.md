@@ -12,32 +12,12 @@ Is the branch of mathematics that deals with the **analysis of random phenomena*
 - independent events
 - conditional probability
 - bayes' theorem
+
 #### [distributions](../probability/probability_distributions.ipynb)
-- random variables
-    - discrete random variables
-    - continuous random variables
 - mass and density functions
 - [discrete distributions](../probability/discrete_distributions.ipynb)
-    - bernoulli distribution
-    - binomial distribution
-    - poisson distribution
-    - uniform distribution
-    - geometric distribution (and hypergeometric distribution)
-    - negative binomial distribution
 - [continuous distributions](../probability/continuous_distributions.ipynb)
-    - uniform distribution
-    - exponential distribution
-    - normal distribution and standarization
-    - gamma distribution
-    - beta distribution
-    - weibull distribution
-    - chi-squared distribution
-    - t-distribution
-    - f-distribution
 - [joint distributions](../probability/joint_distributions.ipynb)
-    - marginal distribution
-    - bivariate normal distribution
-    - multivariate normal distribution
 
 
 ### [Descriptive Statistics](descriptive_statistics.ipynb)
@@ -51,7 +31,7 @@ Is used to describe the basic features of the data in a study. It provides simpl
 - measures of central tendency (mean, median, mode)
 
 
-#### Bivariant Data
+#### [Bivariant Data](bivariant_data.ipynb)
 - Cross-tabulations, contingency tables and representation via scatterplots
 - correlation (pearson's correlation coefficient, spearman's rank correlation coefficient, kendall's tau coefficient)
 - regression (simple linear regression, multiple linear regression)
@@ -70,17 +50,11 @@ Deals with the analysis of data that is used to make inferences about a populati
 - moment method and maximum likelihood estimation
 
 #### [Confidence Intervals](confidence_intervals.ipynb)
-- confidence interval estimation
-    - mean estimation (poblational and sample)
-    - proportion estimation (poblational and sample)
-    - variance and quasi-variance estimation
-    - mean, variance and proportion difference estimation
-    - standard deviation estimation
+- mean estimation (poblational and sample)
+- proportion estimation (poblational and sample)
+- variance and quasi-variance estimation
+- mean, variance and proportion difference estimation
+- standard deviation estimation
 
 #### [Hypothesis Testing](hypothesis_testing.ipynb)
 - bilateral and unilateral hypothesis
-
-#### [Regression Analysis](regression_analysis.ipynb)
-This topic can be learned in a deeper way in the [regression analysis notebook](../numerical_analysis/approximation.ipynb) from the [[numerical analysis]].
-- regression analysis (linear and multiple linear regression)
-- correlation

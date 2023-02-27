@@ -124,12 +124,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,11 +143,23 @@
   },
   "active": "294fa6a191762b8a",
   "lastOpenFiles": [
+    "math/statistics/bivariant_data.ipynb",
+    "math/statistics/bivarian_data.ipynb",
+    "logic/complexity.png",
+    "math/probability/probability.md",
+    "math/numerical_analysis/numerical-analysis.md",
+    "math/numerical_analysis/numerical%20analysis.md",
+    "math/statistics/statistics.md",
+    "data_science/data science.md",
+    "data_science/data scientist.md",
+    "data_science/operations_research/data scientist.md",
+    "data scientist.md",
+    "data_science/data analysis.md",
+    "operating_systems/operating system.md",
     "software_architecture/design/patterns/mvc.md",
     "languages/rust/rust.md",
     "languages/xpath.md",
     "languages/regular expressions.md",
-    "operating_systems/operating system.md",
     "software_architecture/compilers/compilers.md",
     "programming/regular expressions.md",
     "languages/python/libraries/seaborn/math/statistics/statistics.md",
@@ -158,7 +170,6 @@
     "languages/python/libraries/seaborn/seaborn cheatsheets.png",
     "languages/python/libraries/seaborn/Seaborn_Cheatsheet_Datacamp1.png",
     "schedule.md",
-    "data_science/data science.md",
     "computer_architecture/computer architecture.md",
     "languages/python/libraries/pygame/pygame.md",
     "languages/python/libraries/pygame/resources/img/star.png",
@@ -169,13 +180,8 @@
     "languages/python/libraries/chess/chess.ipynb",
     "languages/python/libraries/chess",
     "languages/python/libraries/schemdraw/schemdraw.md",
-    "languages/python/libraries/schemdraw/schemdraw.ipynb",
     "todo.md",
     "computer_architecture/digital_systems/digital systems.md",
-    "computer_networks/web/web scrapping.md",
-    "languages/rust/links.md",
-    "languages/java/libraries/swing/README.md",
-    "languages/java/notebook/scripts/README.md",
-    "math/statistics/statistics.md"
+    "computer_networks/web/web scrapping.md"
   ]
 }

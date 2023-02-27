@@ -1,6 +1,6 @@
 # [Data Science](https://www.kaggle.com/datasets/timoboz/data-science-cheat-sheets)
 
-Is an interdisciplinary academic field that **uses [[statistics]], [[computer science]], scientific methods, processes, [[algorithms]], systems and [[operations research]]** to $extract$ or $extrapolate$ knowledge and insights from noisy, structured and unstructured data.
+Is an interdisciplinary academic field that **uses [[statistics]], computer science, scientific methods, processes, [[algorithms]], systems and [[operations research]]** to $extract$ or $extrapolate$ knowledge and insights from noisy, structured and unstructured data.
 Is the process in which we use data to interpolate & get more usefull information. to get more information from data.
 The **data science** uses [[artificial intelligence]] as a tool to try to make predictions.
 
@@ -52,10 +52,10 @@ Is a subset of [[data science]] that focuses on **analyzing data to answer quest
 5. Share results
 
 ## [Data Scientist](data%20scientist.md)
-Is the one who **uses the data to create new knowledge**. Is the one who **creates the models** that will be used by the [machine learning](./artificial_intelligence/machine%20learning.md)
+Is the one who **uses the data to create new knowledge**. Is the one who **creates the models** that will be used by the [machine learning enginner](./artificial_intelligence/machine%20learning.md).
 
 ## [Machine Learning Engineer](./artificial_intelligence/machine%20learning.md#machine-learning-engineer)
-Is the one who **creates, trains and deploys the models**. Is the one who **creates the API** that will be used by the [data scientist](.data%20scientist).
+Is the one who **creates, trains and deploys the models**. Is the one who **creates the API** that will be used by the [data scientist](data%20scientist).
 
 ----
 ## References

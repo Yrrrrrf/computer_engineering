@@ -2,7 +2,7 @@
 
 Is the branch of mathematics that deals with the **analysis of random phenomena**. It is used to calculate the likelihood that an event will occur or not occur.
 
-Is an essential part of [[statistics]]. It is used to calculate the **probability** of an event occurring.
+Is an essential part of [statistics](./../statistics/statistics.md). It is used to calculate the **probability** of an event occurring.
 
 
 ## Index

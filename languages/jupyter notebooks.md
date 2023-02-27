@@ -26,3 +26,5 @@ pip install ipykernel  # to use other languages
 
 - `shift + enter` to run a cell
 
+Enter md cell: `m`
+
